@@ -1,4 +1,3 @@
-import React from "react";
 import Slider from "react-slick";
 import { useSelector } from "react-redux";
 import { getAllMovies, getAllShows } from "../../features/movies/movieSlice";
