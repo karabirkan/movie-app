@@ -43,7 +43,7 @@ const MovieListing = () => {
       <div className="show-list">
         <h2>Shows</h2>
         <div className="movie-container">
-          <Slider {...Settings}>{renderShows}</Slider>}
+          <Slider {...Settings}>{renderShows}</Slider>
         </div>
       </div>
     </div>
